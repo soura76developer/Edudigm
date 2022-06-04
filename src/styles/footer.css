@@ -1,0 +1,215 @@
+.penta-box-grand{
+    position: absolute;
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    margin-top: 45%;
+}
+
+.penta-stick{
+    position: absolute;
+    width: 3px;
+    height: 260px;
+    margin-top: 2%;
+    background-color: yellow;
+    margin-left: 6.1%;
+}
+
+.penta-1{
+    position: absolute;
+    margin-left: 5.5%;
+    width:20px ;
+    height:20px;
+    margin-top: 3%;
+   
+}
+
+.penta-2{
+    position: absolute;
+    margin-left: 5.5%;
+    margin-top: 8%;
+    width:20px ;
+    height:20px;
+}
+
+.penta-3{
+    position: absolute;
+    margin-left: 5.5%;
+    margin-top: 13%;
+    width:20px ;
+    height:20px;
+}
+
+.penta-4{
+    position: absolute;
+    margin-left: 5.5%;
+    margin-top: 18%;
+    width:20px ;
+    height:20px;
+}
+
+.penta-text1{
+    position: absolute;
+    margin-top: 3%;
+    margin-left:8% ;
+}
+
+.penta-text2{
+    position: absolute;
+    margin-top:8% ;
+    margin-left: 8%;
+}
+
+.penta-text3{
+    position: absolute;
+    margin-top:13% ;
+    margin-left: 8%;
+}
+
+.penta-text4{
+    position: absolute;
+    margin-top:18% ;
+    margin-left: 8%;
+}
+
+.t-l{
+    position: absolute;
+    width: 250px ;
+    height: 150px;
+    margin-top:0% ;
+    margin-left: 60%;
+    border-radius:9px ;
+    background-color:#ff9000 ;
+}
+.t-l:active{
+    transform: scale(1.05,1.05);
+    outline: 0;
+}
+.b-l{
+    position: absolute;
+    width: 250px ;
+    height: 130px;
+    margin-top:12% ;
+    margin-left: 60%;
+    border-radius:9px ;
+    background-color:#fff1d3;
+}
+.b-l:active{
+    transform: scale(1.10,1.25);
+    outline: 0;
+}
+.t-r{
+    position: absolute;
+    width: 250px ;
+    height: 150px;
+    margin-top:0% ;
+    margin-left: 79%;
+    border-radius:9px ;
+    background-color:#fff1d3;
+}
+
+.t-r:active{
+    transform: scale(1.05,1.05);
+    outline: 0;
+}
+.b-r{
+    position: absolute;
+    width: 250px ;
+    height: 150px;
+    margin-top:12% ;
+    margin-left: 79%;
+    border-radius:9px ;
+    background-color:#ff9000 ;
+}
+.b-r:active{
+    transform: scale(1.05,1.05);
+    outline: 0;
+}
+.bi{
+    width:50px;
+    height:50px ;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.pi{
+    width:50px;
+    height:50px ;
+    margin-left: 77%;
+    margin-top: 3%;
+}
+.ti{
+    width:50px;
+    height:50px ;
+    margin-left: 77%;
+    margin-top: 3%;
+}
+.tri{
+    width:50px;
+    height:50px ;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.gif-heading{
+    position: absolute;
+    margin-top:-20% ;
+    margin-left:50% ;
+
+}
+
+.gif-heading2{
+    position: absolute;
+    margin-top:-10% ;
+    margin-left:60% ;
+}
+
+
+.gif-desc{
+    position: absolute;
+    margin-top:10% ;
+    margin-left:2% ;
+    font-weight: 600;
+}
+
+.gif-heading2-1{
+    position: absolute;
+    margin-top:-10% ;
+    margin-left:40% ;
+}
+.gif-heading-pie{
+    position: absolute;
+    margin-top:-20% ;
+    margin-left:10% ;
+}
+.gif-desc-1
+{
+    position: absolute;
+    margin-top:0% ;
+    margin-left:2% ;
+    font-weight: 600;
+}
+
+.gif-heading-ti{
+    position: absolute;
+    margin-top:-20% ;
+    margin-left:10% ;
+
+}
+
+.gif-heading-ti2{
+    position: absolute;
+    margin-top:-10% ;
+    margin-left:5% ;
+}
+
+.footer-space{
+    position: absolute;
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    margin-top: 25%;
+   
+    
+}

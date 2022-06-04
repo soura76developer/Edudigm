@@ -1,0 +1,152 @@
+.success-container{
+
+    margin-top: 40%;
+    text-align: center;
+}
+
+
+.header{
+
+    font-size: xx-large;
+    color: #f69f13;
+    font-weight: 800;
+    text-shadow: 2px 2px 4px rgb(186, 185, 185);
+
+    font-family: 'Cinzel', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Libre Bodoni', serif;
+
+
+
+
+}
+
+.box-l{
+
+    position: absolute;
+    width:250px ;
+    height:400px ;
+    background-color:#d90049 ;
+}
+
+.box-v1{
+    position: absolute;
+    width:400px ;
+    height:200px ;
+    background-color:#ff9000;
+    margin-left: 38.5%;
+
+}
+
+.box-v2{
+    position: absolute;
+    width:400px ;
+    height:200px ;
+    background-color:#ffee00;
+    margin-left: 38.5%;
+    margin-top: 30.8%;
+
+}
+
+.success-grand{
+    position: absolute;
+    background-color: aqua;
+    width:650px ;
+    height:400px ;
+    margin-top: 10%;
+    
+   
+    
+}
+
+.success-container{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.round1{
+    width: 100px;
+    height:100px ;
+    border-radius: 50%;
+    background-color: white;
+    margin-top: 20% ;
+    margin-left:30% ;
+}
+.round2{
+    width: 100px;
+    height:100px ;
+    border-radius: 50%;
+    background-color: white;
+    margin-top: 10% ;
+    margin-left:10% ;
+}
+.round3{
+    width: 100px;
+    height:100px ;
+    border-radius: 50%;
+    background-color: white;
+    margin-top: 10% ;
+    margin-left:10% ;
+}
+
+.boy1{
+  
+    width: 100px;
+    height:100px ;
+    border-radius: 50%;
+ 
+}
+
+.boy2{
+    width: 100px;
+    height:100px ;
+    border-radius: 50%;
+    
+}
+
+
+.boy3{
+    width: 100px;
+    height:100px ;
+    border-radius: 50%;
+  
+}
+
+.student-details1{
+    margin-top:25% ;
+    margin-left: 5%;
+    color: #ffee00;
+    font-weight: 800;
+}
+.student-details2{
+    margin-top:-28% ;
+    margin-left: 15%;
+    color: #ffee00;
+    font-weight: 800;
+    
+}
+.student-details3{
+    margin-top:-28% ;
+    margin-left: 15%;
+    color: black;
+    font-weight: 800;
+}
+
+.performance-box
+{
+    margin-top: 20%;
+    margin-left: -62%;
+   
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.performance-text-box{
+
+    font-weight: 700;
+}

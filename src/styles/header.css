@@ -1,0 +1,71 @@
+.logo-design{
+margin-top: 1%;
+margin-left: 1%;
+position: absolute;
+background-color: azure;
+width:170px;
+height:50px ;
+box-shadow: 2px 2px 20px rgb(200, 196, 196);
+border-radius: 5px;
+}
+
+.logo-design-text{
+position: absolute;
+margin-top:2.5% ;
+margin-left:7% ;
+color:#e9bb57 ;
+
+font-family: 'Cinzel', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Libre Bodoni', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Tapestry', cursive;
+font-family: 'Ubuntu', sans-serif;
+
+
+
+}
+
+
+.btn_zone{
+    position: absolute;
+    margin-left:58% ;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+
+.btn-btn{
+
+    border: none;
+    background-color: white;
+    font-size: 14px;
+
+    font-family: 'Cinzel', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Bodoni', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Tapestry', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+    font-weight: 900;
+    margin-right: 2px;
+    
+}
+
+.Header_grand_parent
+{
+    width: 100%;
+    height: 75px;
+    box-shadow: 1px 1px 30px rgb(190, 187, 187);
+    background-color: white;
+}
+
+.btn-btn:hover{
+color: #e9bb57 ;
+}
+
